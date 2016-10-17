@@ -1,7 +1,7 @@
 var GAME_LEVELS = [
   ["                                                                                ",
    "                                                                                ",
-   "                             o o                                                ",
+   "                              o o                                                ",
    "                                                                  yy            ",
    "                            xxxxx                                               ",
    "             o o                                                                ",
